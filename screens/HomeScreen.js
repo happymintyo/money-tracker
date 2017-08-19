@@ -51,6 +51,7 @@ export default class HomeScreen extends React.Component {
 
             <Text style={styles.getStartedText}>
               Lets see if this works. ok, lets do this!
+              whatever change.
             </Text>
           </View>
 
